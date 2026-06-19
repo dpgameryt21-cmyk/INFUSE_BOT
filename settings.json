@@ -8,7 +8,7 @@
   "server": {
     "ip": "INFUSE_SmP001.aternos.me",
     "port": 55733,
-    "version": "1.21.11",
+    "version": "1.21.1",
     "try-creative": false
   },
   "position": {
@@ -19,7 +19,7 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "chalol78"
     },
     "anti-afk": {
